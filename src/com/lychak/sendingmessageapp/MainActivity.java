@@ -1,4 +1,4 @@
-package com.lychak.androidapp1;
+package com.lychak.sendingmessageapp;
 
 import android.os.Bundle;
 import android.annotation.SuppressLint;
@@ -10,7 +10,7 @@ import android.widget.EditText;
 import android.widget.ImageView;
 
 public class MainActivity extends Activity {
-	public final static String EXTRA_MESSAGE = "com.lychak.androidapp1.MESSAGE";
+	public final static String EXTRA_MESSAGE = "com.lychak.sendingmessageapp.MESSAGE";
 
 	@Override
     protected void onCreate(Bundle savedInstanceState) {

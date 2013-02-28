@@ -1,4 +1,4 @@
-package com.lychak.androidapp1;
+package com.lychak.sendingmessageapp;
 
 import android.os.Bundle;
 import android.app.Activity;
